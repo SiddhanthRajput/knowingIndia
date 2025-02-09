@@ -90,7 +90,7 @@ function AttractionVist() {
                 {
                     famousIndianTemples.map((item, index) =>
                         <SwiperSlide key={item.id} className="box bg-white shadow-lg rounded-md  mb-5    p-3 ">
-                            <Card img={item.img} name={item.state} Description={item.description} />
+                            <Card img={item.Images} name={item.state} Description={item.Description} />
                         </SwiperSlide>
                     )
                 }
