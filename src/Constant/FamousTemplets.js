@@ -2,7 +2,7 @@ const famousIndianTemples = [
   {
     id: 1,
     name: "Kedarnath Temple",
-    description: "One of the twelve Jyotirlingas dedicated to Lord Shiva, situated in the Himalayas.",
+    description: "One  Jyotirlingas dedicated to Lord Shiva, situated in the Himalayas.",
     location: "Kedarnath",
     state: "Uttarakhand",
     img: "https://cdn.tourmyindia.com/blog/wp-content/uploads/2018/04/Kedarnath-Temple.jpg",
