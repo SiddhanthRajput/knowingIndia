@@ -33,7 +33,7 @@ const TypeofPlace = [
   },
   {
     id: 7,
-    name: "History",
+    name: "Historysdfgfdgdfg",
     image: history,
   },
 ];
