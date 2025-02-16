@@ -31,6 +31,11 @@ const TypeofPlace = [
     name: "History",
     image: history,
   },
+  {
+    id: 7,
+    name: "History",
+    image: history,
+  },
 ];
 
 export { TypeofPlace };
